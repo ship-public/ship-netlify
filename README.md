@@ -28,7 +28,8 @@ Next head to Deploy Notifications
 
 ![Next head to Deploy Notifications](./images/Netlify3.png)
 
-And add Notifications for Outgoing Webhooks. Use the webhook URL we provide and create events for _Deploy Started_, 
+And add Notifications for Outgoing Webhooks. Use the webhook URL we provide and create events for **all of** _Deploy 
+Started_, 
 _Deploy Succeeded_, and _Deploy Failed_. Leave the _JWS secret token_ field blank.
 
 ![add Notifications for Outgoing Webhooks](./images/Netlify4.png)
