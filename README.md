@@ -1,4 +1,4 @@
-# CircleCI Orb for Ship
+# Netlify support for Ship
 
 Welcome to Ship's [Netlify](https://www.netlify.com/) support! To learn how Ship can help you with your Netlify 
 sites, please see [our website](https://www.shipapp.io/integrations/netlify).
